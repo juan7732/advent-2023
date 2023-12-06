@@ -1,0 +1,109 @@
+{
+    "folders": [
+        {
+            "path": ".",
+            "name": "Root"
+        },
+        {
+            "path": "./day1",
+            "name": "Day 1"
+        },
+        {
+            "path": "./day2",
+            "name": "Day 2"
+        },
+        {
+            "path": "./day3",
+            "name": "Day 3"
+        },
+        {
+            "path": "./day4",
+            "name": "Day 4"
+        },
+        {
+            "path": "./day5",
+            "name": "Day 5"
+        },
+        {
+            "path": "./day6",
+            "name": "Day 6"
+        },
+        {
+            "path": "./day7",
+            "name": "Day 7"
+        },
+        {
+            "path": "./day8",
+            "name": "Day 8"
+        },
+        {
+            "path": "./day9",
+            "name": "Day 9"
+        },
+        {
+            "path": "./day10",
+            "name": "Day 10"
+        },
+        {
+            "path": "./day11",
+            "name": "Day 11"
+        },
+        {
+            "path": "./day12",
+            "name": "Day 12"
+        },
+        {
+            "path": "./day13",
+            "name": "Day 13"
+        },
+        {
+            "path": "./day14",
+            "name": "Day 14"
+        },
+        {
+            "path": "./day15",
+            "name": "Day 15"
+        },
+        {
+            "path": "./day16",
+            "name": "Day 16"
+        },
+        {
+            "path": "./day17",
+            "name": "Day 17"
+        },
+        {
+            "path": "./day18",
+            "name": "Day 18"
+        },
+        {
+            "path": "./day19",
+            "name": "Day 19"
+        },
+        {
+            "path": "./day20",
+            "name": "Day 20"
+        },
+        {
+            "path": "./day21",
+            "name": "Day 21"
+        },
+        {
+            "path": "./day22",
+            "name": "Day 22"
+        },
+        {
+            "path": "./day23",
+            "name": "Day 23"
+        },
+        {
+            "path": "./day24",
+            "name": "Day 24"
+        },
+        {
+            "path": "./day25",
+            "name": "Day 25"
+        }
+    ],
+    "settings": {}
+}
