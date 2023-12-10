@@ -105,5 +105,7 @@
             "name": "Day 25"
         }
     ],
-    "settings": {}
+    "settings": {
+        "sarif-viewer.connectToGithubCodeScanning": "off"
+    }
 }
